@@ -5,7 +5,7 @@ img {
 
 .fact {
     font-style: italic;
-padding: 2em;
+    padding: 2em;
 }
 
 .label {
@@ -40,6 +40,10 @@ body {
 .title {
     padding-top: 30px;
     padding-left: 30px;
+}
+
+.story {
+    width: 375px;
 }
 
 .shadow {
