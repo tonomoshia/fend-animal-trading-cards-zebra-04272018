@@ -43,7 +43,8 @@ body {
 }
 
 .story {
-    width: 375px;
+    width: 350px;
+    padding: 1em;
 }
 
 .shadow {
